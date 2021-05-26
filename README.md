@@ -1,4 +1,3 @@
-# Tic-Tac
 Описание игры крестики нолики(Description of the game tic tac toe):
 
 Данный проект был создан на основе курса от JetBrains Academy - Python Developer
