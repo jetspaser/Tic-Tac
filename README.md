@@ -30,7 +30,7 @@
 
 ![image](https://user-images.githubusercontent.com/82081895/119710863-8c519d80-be67-11eb-83a3-945c882cfa64.png)
 
-**Формат ввода: 1 1 , 2 3 и тд**
+**Формат ввода: 1 1 или 2 3 и тд**
 
 
 
